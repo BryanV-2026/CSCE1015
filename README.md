@@ -2,5 +2,5 @@
 Assignment repository for UNT CSCE1015
 # EUID
 bv0330
-# Favorite Hobby
-Video Games
+# Favorite Linux Command
+HTOP
